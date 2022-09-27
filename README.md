@@ -1,4 +1,4 @@
-# GitをSourceTreeで使用する
+# GitをSourceTreeで使えるようにする手順
 
 ## 環境構築
 Gitのインストール  
