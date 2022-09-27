@@ -29,6 +29,10 @@ https://github.com/iwamoto-magic/SQL-Server
 git clone git@github.com:iwamoto-magic/SQL-Server.git  
 
 2.SourceTree  
-ツールから「Clone」を選択。  
+ツールから「Clone」を選択  
 リポジトリタイプを「git@github.com:iwamoto-magic/SQL-Server.git」  
 保存先パスを「任意の場所に設定」  
+
+## 使用上の注意点
+1.ブランチを切って作業をする事  
+2.コミット、プッシュをする時は、必ず "プル" を行う事  
