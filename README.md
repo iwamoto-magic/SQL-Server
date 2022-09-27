@@ -11,10 +11,12 @@ GitHubアカウントを作成
 https://qiita.com/ayatokura/items/9eabb7ae20752e6dc79d
 
 ##  GitHubとSourceTreeを紐づけ、GitHubにプッシュ
-以下サイトに則って行う。ただし鍵生成の方法は別サイトを参照
+以下サイトに則って行う。ただし鍵生成の方法は別サイトを参照  
 https://www.pc-koubou.jp/magazine/28571  
-※ 鍵生成
+※ 鍵生成  
 https://pajoca.com/sourcetree-error-ssh-sha-1/
 
-##  使い方
-初めにSourceTreeインストールから、レポジトリを作成する事。
+###  -------------------------------------------------------------------------------------------------
+
+
+#  使い方
