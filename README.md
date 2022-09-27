@@ -21,7 +21,11 @@ https://pajoca.com/sourcetree-error-ssh-sha-1/
 
 #  使用方法
 
+<<<<<<< HEAD
 ## コードを取ってくる方法 2通り
+=======
+## コード ダウンロード方法 2通り
+>>>>>>> 4cfc8c837fd7f95c5be49daf5c27546fc86a1bde
 GitHubサイトより「Code」をクリックし、「git@github.com:iwamoto-magic/SQL-Server.git」を取得  
 https://github.com/iwamoto-magic/SQL-Server  
 
